@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Shadow/Documents/Unreal Projects/RunnerTest/EndlessRunner/Content/blueprint/tile.uasset",
+				"C:/Users/Shadow/Documents/Unreal Projects/RunnerTest/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Shadow/Documents/Unreal Projects/RunnerTest/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/07/WRBZ731Z53PXTFLBEPWDOQ.uasset",
+				"C:/Users/Shadow/Documents/Unreal Projects/RunnerTest/EndlessRunner/Content/Maps/TestMap.umap",
+				"C:/Users/Shadow/Documents/Unreal Projects/RunnerTest/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/mgilis/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/mgilis/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/mgilis/Documents/Unreal Projects/EndlessRunner/Content/blueprint/tile.uasset",
